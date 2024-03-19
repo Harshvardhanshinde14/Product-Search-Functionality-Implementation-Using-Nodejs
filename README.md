@@ -32,10 +32,10 @@ Start the application:
 bash
 Copy code
 npm start
-This will start the Node.js server. You can access the application at http://localhost:3000 in your web browser.
+This will start the Node.js server. You can access the application at http://localhost:5000 in your web browser.
 
 Usage
-Open your web browser and navigate to http://localhost:3000.
+Open your web browser and navigate to http://localhost:5000.
 Use the search form to search for products by name.
 View the search results displayed on the "searchResults" page.
 Project Structure
